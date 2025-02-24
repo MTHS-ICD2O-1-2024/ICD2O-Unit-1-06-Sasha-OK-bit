@@ -2,3 +2,14 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+
+body {
+  background-color: rgb(4, 12, 101);
+  font-family: Segoe UI;
+  font-size: 24px;
+}
+
+#Calculate {
+  color: mediumblue;
+  font-family: Segoe Ui;
+}
